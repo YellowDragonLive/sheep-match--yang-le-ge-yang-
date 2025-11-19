@@ -27,4 +27,4 @@ export interface GameState {
 
 export const GRID_SIZE = 44; // Pixels per grid unit step
 export const TILE_SIZE = 48; // Pixel size of the tile visual
-export const DOCK_CAPACITY = 8;
+export const DOCK_CAPACITY = 10;
