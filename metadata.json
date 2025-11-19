@@ -1,0 +1,5 @@
+{
+  "name": "Sheep Match (Yang Le Ge Yang)",
+  "description": "A challenging tile-matching puzzle game where you clear layers of tiles by collecting sets of three in a limited 7-slot dock.",
+  "requestFramePermissions": []
+}
